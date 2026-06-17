@@ -16,4 +16,5 @@ dependencies = [
     "tqdm>=4.68.2",
     "streamlit>=1.58.0",
     "langchain-classic>=1.0.8",
+    "telethon>=1.40.0",
 ]
